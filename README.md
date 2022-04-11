@@ -11,7 +11,7 @@ Once the data has been analyzed, we can see that there are more rides and driver
 #### PyBer Fare Summary Graph.png
 ![PyBer_fare_summary.png](/analysis/PyBer_fare_summary.png)
 
-##Summary
+## Summary
 
 Recommendations based on the analysis are as follows:
 - The city generating the most revenue are urban cities. It would be advisable to invest the most in urban cities as they generate the most rides and have the most drivers. A larger share of company resources should be directed to urban cities over suburban and rural cities. 
