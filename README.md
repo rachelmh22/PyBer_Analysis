@@ -6,9 +6,9 @@ The purpose of this project is to create a visualization for V. Isualize to see 
 
 ## Results
 
-Once the data has been analyzed, we can see that there are more rides and drivers in urban cities over both rural and suburban cities. Rural cities generate the least number of rides and have the least number of drivers. This in turn affects the fares. The total sum of fares is much greater in urban cities with a total of $39,854.38. Rural and suburban cities have a smaller number of total fare, with rural cities generating the lowest total fares. Since there are less rides generated in rural cities, average fare per ride is much higher in rural cities, averaging $34.62 per ride while urban cities average $24.53 per ride. However, since there are less drivers in rural cities, the average fare per driver is higher than in urban cities. A driver in rural cities average about $55.59 per fare while drivers in urban cities average $16.57 with suburban city drivers averaging between the two at $39.50. This analysis can be seen in the table below and in the line graph created to visualize the total fares weekly in January to April of 2019.
+Once the data has been analyzed, we can see that there are more rides and drivers in urban cities over both rural and suburban cities. Rural cities generate the least number of rides and have the least number of drivers. This in turn affects the fares. The total sum of fares is much greater in urban cities with a total of $39,854.38. Rural and suburban cities have a smaller number of total fare, with rural cities generating the lowest total fares. Since there are less rides generated in rural cities, average fare per ride is much higher in rural cities, averaging $34.62 per ride while urban cities average $24.53 per ride. However, since there are less drivers in rural cities, the average fare per driver is higher than in urban cities. A driver in rural cities average about $55.59 per fare while drivers in urban cities average $16.57 with suburban city drivers averaging between the two at $39.50. The line graph below helps to visualize the differences in the fares by each city type. As seen, there are major differences in the fares generated among the 3 city types.
 
-#### PyBer Fare_Summary Graph.png
+#### PyBer Fare Summary Graph.png
 ![PyBer_fare_summary.png](/analysis/PyBer_fare_summary.png)
 
 ##Summary
